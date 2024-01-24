@@ -1,0 +1,16 @@
+Windows10 64-bit operating system, x64-based processor
+Intel(R) Xeon(R) Gold 5115 CPU @ 2.40GHz 2.40GHz (2 processors)
+NVIDIA Tesla A100 80GB PCIe
+python 3.11.3(64bit)
+nvcc: NVIDIA (R) Cuda compiler driver
+Copyright (c) 2005-2018 NVIDIA Corporation
+Built on Tue_Jun_12_23:08:12_Central_Daylight_Time_2018
+Cuda compilation tools, release 9.2, V9.2.148
+NVIDIA-SMI 516.94       Driver Version: 516.94       CUDA Version:11.7
+
+other packages
+torch-2.0.0+cu117
+torchaudio-2.0.1+cu117
+torchvision-0.15.1+cu117
+pip 23.1.1
+setuptools 67.7.2
